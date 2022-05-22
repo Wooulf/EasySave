@@ -1,0 +1,5 @@
+C:\Users\bapti\OneDrive\Documents\test 2\WpfApp3.exe
+C:\Users\bapti\OneDrive\Documents\test 2\WpfApp3.dll
+C:\Users\bapti\OneDrive\Documents\test 2\WpfApp3.deps.json
+C:\Users\bapti\OneDrive\Documents\test 2\WpfApp3.runtimeconfig.json
+C:\Users\bapti\OneDrive\Documents\test 2\WpfApp3.pdb

@@ -1,0 +1,22 @@
+[
+  {
+    "totalFileLeft": 1,
+    "totalSizeLeft": 0,
+    "totalFile": 27,
+    "progress": 0,
+    "name": "test 2",
+    "sourcePath": "C:\\Users\\bapti\\OneDrive\\Documents\\CV",
+    "destinationPath": "C:\\Users\\bapti\\OneDrive\\Documents\\test 1\\test 2_2022-02-15_15-39-19\\THALES.docx",
+    "fileSize": 35230924
+  },
+  {
+    "totalFileLeft": 1,
+    "totalSizeLeft": 0,
+    "totalFile": 1,
+    "progress": 100,
+    "name": "test 3",
+    "sourcePath": "C:\\Users\\bapti\\OneDrive\\Documents\\CV",
+    "destinationPath": "C:\\Users\\bapti\\OneDrive\\Documents\\test 1\\test 3_2022-02-15_16-06-42\\CV image.pdf",
+    "fileSize": 1352763
+  }
+]

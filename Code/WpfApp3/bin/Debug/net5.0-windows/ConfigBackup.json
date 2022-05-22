@@ -1,0 +1,18 @@
+[
+  {
+    "name": "test2",
+    "enumBackupType": 0,
+    "sourcePath": "C:\\Users\\bapti\\OneDrive\\Documents\\test",
+    "destinationPath": "C:\\Users\\bapti\\OneDrive\\Documents\\test 2",
+    "state": null,
+    "log": null
+  },
+  {
+    "name": "test 3",
+    "enumBackupType": 1,
+    "sourcePath": "C:\\Users\\bapti\\OneDrive\\Documents\\CV",
+    "destinationPath": "C:\\Users\\bapti\\OneDrive\\Documents\\test 1",
+    "state": null,
+    "log": null
+  }
+]
